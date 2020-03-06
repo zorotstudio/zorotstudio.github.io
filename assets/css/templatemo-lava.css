@@ -111,6 +111,12 @@ figcaption {
     height: 0;
 }
 
+.header img {
+    float: none;
+    width: 150px;
+    height: 150px;
+  }
+
 .clearfix {
     display: inline-block;
 }
@@ -312,7 +318,7 @@ header
 
 .background-header {
     background-color: #fff;
-    height: 80px!important;
+    height: 150px!important;
     position: fixed!important;
     top: 0px;
     left: 0px;
